@@ -1,4 +1,4 @@
-# Hi there, I'm SPK2k22! 👋
+# Hi there, I'm Lucas! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/SPK2k22?label=Follow&style=social)](https://github.com/SPK2k22/?tab=follow)
 [![Linkedin: SPK2k22](https://img.shields.io/badge/-SPK2k22-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SPK2k22/)](https://www.linkedin.com/in/SPK2k22/)
